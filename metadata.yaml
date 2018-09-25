@@ -1,5 +1,8 @@
 _repo: Fanny-Burney-and-Her-Friends-Select-Passages-from-Her-Diary-and-Other-Writings_57472
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57472-h/images/cover.jpg
 creator:
   author:
     agent_name: Burney, Fanny
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '47409'
     url: http://www.gutenberg.org/2009/agents/47409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57472#Fanny-Burney-and-Her-Friends-Select-Passages-from-Her-Diary-and-Other-Writings
 gutenberg_issued: '2018-07-10'
 gutenberg_type: Text
 identifiers:

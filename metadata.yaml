@@ -1,0 +1,35 @@
+_repo: Fanny-Burney-and-Her-Friends-Select-Passages-from-Her-Diary-and-Other-Writings_57472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - Burney, Frances
+    - D'Arblay, Frances Burney
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+  editor:
+    agent_name: Seeley, L. B. (Leonard Benton)
+    alias: Seeley, Leonard Benton
+    birthdate: 1831
+    deathdate: 1893
+    gutenberg_agent_id: '47409'
+    url: http://www.gutenberg.org/2009/agents/47409
+description: ''
+gutenberg_issued: '2018-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burney, Fanny, 1752-1840 -- Friends and associates'
+- !lcc 'PR'
+- GITenberg
+title: 'Fanny Burney and Her Friends: Select Passages from Her Diary and Other Writings'
+url: http://www.gutenberg.org/ebooks/57472
